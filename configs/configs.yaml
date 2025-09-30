@@ -1,0 +1,16 @@
+project_name: "medrecord"
+data_dir: "data"
+raw_dir: "data/raw"
+
+datasets:
+  meddialog:
+    hf_repo: "UCSD26/medical_dialog"
+    config: "processed.en"  
+    split_train: "train"
+    split_val: "validation"
+    split_test: "test"
+
+sampling:
+  train_n: 200  
+  val_n: 50
+  test_n: 50

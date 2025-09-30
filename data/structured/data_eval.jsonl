@@ -1,0 +1,20 @@
+{"id": "meddialog_66", "conditions_eval": ["pneumonia", "fluid on lung", "sore head, eyes, and ears", "coughing", "wheezing", "exhaustion from coughing", "sleep disturbance", "low white blood cell count", "high blood pressure", "normal oxygen saturation"]}
+{"id": "meddialog_187", "conditions_eval": ["pneumonia", "vomiting", "congestion", "cough"]}
+{"id": "meddialog_101", "conditions_eval": []}
+{"id": "meddialog_193", "conditions_eval": ["pneumonia", "cough", "leg swelling", "rapid heartbeat", "sepsis"]}
+{"id": "meddialog_111", "conditions_eval": ["pneumonia", "chest pain", "heart flutter", "cough", "fever", "pleura irritation", "broncho alveolar constrictions"]}
+{"id": "meddialog_121", "conditions_eval": []}
+{"id": "meddialog_13", "conditions_eval": ["hoarseness", "coronavirus"]}
+{"id": "meddialog_2", "conditions_eval": ["tight and painful chest", "dry cough", "coronavirus", "fever", "headaches"]}
+{"id": "meddialog_64", "conditions_eval": ["left basal pneumonia", "diarrhea"]}
+{"id": "meddialog_44", "conditions_eval": []}
+{"id": "meddialog_136", "conditions_eval": []}
+{"id": "meddialog_170", "conditions_eval": ["tuberculosis", "covid-19"]}
+{"id": "meddialog_128", "conditions_eval": []}
+{"id": "meddialog_76", "conditions_eval": []}
+{"id": "meddialog_158", "conditions_eval": ["small cell lung cancer", "bronchitis", "pneumonia", "smoking"]}
+{"id": "meddialog_167", "conditions_eval": ["sore throat", "headache", "dizziness", "strep throat", "covid-19"]}
+{"id": "meddialog_45", "conditions_eval": []}
+{"id": "meddialog_130", "conditions_eval": ["covid-19"]}
+{"id": "meddialog_30", "conditions_eval": ["dry throat"]}
+{"id": "meddialog_3", "conditions_eval": ["COVID-19", "dry cough", "fever"]}
