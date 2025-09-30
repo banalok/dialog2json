@@ -1,4 +1,4 @@
-project_name: "medrecord"
+project_name: "dialog2json"
 data_dir: "data"
 raw_dir: "data/raw"
 
